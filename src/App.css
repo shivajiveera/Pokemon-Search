@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+
+
+.title {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 0.2rem;
+  font-size: large;
+  background-color: aqua;
+}
+
+*{
+  background-color: rgb(255, 255, 255);
+ }
+ table{
+  width: 100%;
+ }
+ table,tbody,th,tr,td{
+  border: 1px solid;
+ }
+ th{
+  border: 1px solid;
+ }
+ 
+ tr{
+  border: 1px solid;
+ }
